@@ -1,4 +1,4 @@
-# EDA-Assignment-capstone-18-
+# EDA-Assignment-capstone-18
 This repository contains the second data visualization assignment for HyperionDev
 
 Summary of the Data Set
